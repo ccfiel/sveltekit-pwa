@@ -50,6 +50,7 @@
   "dependencies": {
     "@floating-ui/dom": "^1.5.3",
     "@fontsource/fira-mono": "^5.0.8",
-    "@vite-pwa/sveltekit": "^0.2.7"
+    "@vite-pwa/sveltekit": "^0.2.7",
+    "kolorist": "^1.8.0"
   }
 }
